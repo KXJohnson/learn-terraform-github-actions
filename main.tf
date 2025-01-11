@@ -21,10 +21,10 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "balericaclass6"
+    organization = "ragejournal0k"
 
     workspaces {
-      name = "learn-terraform-github-actions"
+      name = "Github_Actions_Pipeline"
     }
   }
 }
